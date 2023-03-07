@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="title">BMI計算機</string>
+    <string name="weight_label">あなたの体重（kg）</string>
+    <string name="height_label">あなたの身長（cm）</string>
+    <string name="button_calculate">計算する</string>
+    <string name="your_score">あなたのスコア</string>
+    <string name="Reset">きれいにするため</string>
+    <string name="Share">共有する</string>
+    <string name="ideal_state"></string>
+    <string name="underweight">体重不足</string>
+    <string name="normal_weight">標準体重</string>
+    <string name="over_weight">肥満 I - 太りすぎ</string>
+    <string name="obesity">肥満Ⅱ</string>
+    <string name="morbid_obesity">肥満Ⅲ</string>
+</resources>
